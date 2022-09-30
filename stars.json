@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "frapuks/presentation-markdown",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "airbnb/css",
-    "stargazers_count": 6509,
+    "stargazers_count": 6518,
     "open_issues_count": 21,
-    "forks_count": 1406
+    "forks_count": 1407
   },
   {
     "full_name": "totheralistair/SmallerWebHexagon",
@@ -13,15 +19,15 @@
   },
   {
     "full_name": "CyberSecurityUP/Red-Team-Management",
-    "stargazers_count": 134,
+    "stargazers_count": 135,
     "open_issues_count": 0,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "postgres/postgres",
-    "stargazers_count": 11004,
+    "stargazers_count": 11026,
     "open_issues_count": 0,
-    "forks_count": 3484
+    "forks_count": 3493
   },
   {
     "full_name": "antoine-coulon/javascript-algorithms",
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "fraxken/ebook_nodejs",
-    "stargazers_count": 314,
+    "stargazers_count": 315,
     "open_issues_count": 0,
     "forks_count": 11
   },
@@ -49,44 +55,44 @@
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 30501,
+    "stargazers_count": 30580,
     "open_issues_count": 15,
-    "forks_count": 6517
+    "forks_count": 6558
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 34387,
-    "open_issues_count": 384,
-    "forks_count": 801
+    "stargazers_count": 34504,
+    "open_issues_count": 385,
+    "forks_count": 803
   },
   {
     "full_name": "mongodb-developer/nodejs-quickstart",
-    "stargazers_count": 196,
+    "stargazers_count": 197,
     "open_issues_count": 2,
     "forks_count": 191
   },
   {
     "full_name": "conventional-changelog/conventional-changelog",
-    "stargazers_count": 6596,
+    "stargazers_count": 6610,
     "open_issues_count": 242,
     "forks_count": 663
   },
   {
     "full_name": "gcanti/fp-ts",
-    "stargazers_count": 8418,
-    "open_issues_count": 154,
+    "stargazers_count": 8432,
+    "open_issues_count": 155,
     "forks_count": 454
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 159497,
+    "stargazers_count": 159602,
     "open_issues_count": 132,
-    "forks_count": 31236
+    "forks_count": 31258
   },
   {
     "full_name": "scottie1984/swagger-ui-express",
-    "stargazers_count": 1113,
-    "open_issues_count": 23,
+    "stargazers_count": 1116,
+    "open_issues_count": 24,
     "forks_count": 199
   },
   {
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "DenverCoder1/readme-typing-svg",
-    "stargazers_count": 1518,
+    "stargazers_count": 1535,
     "open_issues_count": 7,
-    "forks_count": 287
+    "forks_count": 289
   },
   {
     "full_name": "GaetanoPiazzolla/direct-code",
@@ -109,14 +115,14 @@
   },
   {
     "full_name": "supertokens/supertokens-node",
-    "stargazers_count": 180,
+    "stargazers_count": 181,
     "open_issues_count": 39,
     "forks_count": 32
   },
   {
     "full_name": "SilentVoid13/Templater",
-    "stargazers_count": 1190,
-    "open_issues_count": 73,
+    "stargazers_count": 1196,
+    "open_issues_count": 74,
     "forks_count": 83
   },
   {
@@ -127,21 +133,21 @@
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 150444,
-    "open_issues_count": 712,
-    "forks_count": 24537
+    "stargazers_count": 150584,
+    "open_issues_count": 713,
+    "forks_count": 24540
   },
   {
     "full_name": "laowantong/mocodo",
     "stargazers_count": 139,
-    "open_issues_count": 3,
+    "open_issues_count": 5,
     "forks_count": 39
   },
   {
     "full_name": "LeCoupa/awesome-cheatsheets",
-    "stargazers_count": 30653,
+    "stargazers_count": 30712,
     "open_issues_count": 64,
-    "forks_count": 5010
+    "forks_count": 5018
   },
   {
     "full_name": "chris-marsh/pureline",
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 72994,
+    "stargazers_count": 73069,
     "open_issues_count": 65,
-    "forks_count": 9867
+    "forks_count": 9886
   },
   {
     "full_name": "helene-nguyen/luneyverseblog",
@@ -169,12 +175,6 @@
   },
   {
     "full_name": "helene-nguyen/pair-programming",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "helene-nguyen/parcours-oclock",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
