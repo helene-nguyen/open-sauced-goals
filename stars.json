@@ -1,9 +1,9 @@
 [
   {
     "full_name": "docker/awesome-compose",
-    "stargazers_count": 18435,
-    "open_issues_count": 75,
-    "forks_count": 2849
+    "stargazers_count": 18489,
+    "open_issues_count": 79,
+    "forks_count": 2868
   },
   {
     "full_name": "frapuks/presentation-markdown",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "airbnb/css",
-    "stargazers_count": 6528,
+    "stargazers_count": 6530,
     "open_issues_count": 20,
-    "forks_count": 1409
+    "forks_count": 1411
   },
   {
     "full_name": "totheralistair/SmallerWebHexagon",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "CyberSecurityUP/Red-Team-Management",
-    "stargazers_count": 139,
+    "stargazers_count": 148,
     "open_issues_count": 0,
-    "forks_count": 29
+    "forks_count": 30
   },
   {
     "full_name": "postgres/postgres",
-    "stargazers_count": 11059,
+    "stargazers_count": 11077,
     "open_issues_count": 0,
-    "forks_count": 3498
+    "forks_count": 3507
   },
   {
     "full_name": "antoine-coulon/javascript-algorithms",
@@ -51,7 +51,7 @@
     "full_name": "fraxken/ebook_nodejs",
     "stargazers_count": 318,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "bniepce/insset-course-ccm",
@@ -61,43 +61,43 @@
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 30971,
+    "stargazers_count": 31206,
     "open_issues_count": 15,
-    "forks_count": 6688
+    "forks_count": 6735
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 34713,
-    "open_issues_count": 387,
-    "forks_count": 805
+    "stargazers_count": 34790,
+    "open_issues_count": 381,
+    "forks_count": 811
   },
   {
     "full_name": "mongodb-developer/nodejs-quickstart",
     "stargazers_count": 198,
     "open_issues_count": 2,
-    "forks_count": 191
+    "forks_count": 193
   },
   {
     "full_name": "conventional-changelog/conventional-changelog",
-    "stargazers_count": 6624,
+    "stargazers_count": 6632,
     "open_issues_count": 245,
-    "forks_count": 664
+    "forks_count": 665
   },
   {
     "full_name": "gcanti/fp-ts",
-    "stargazers_count": 8454,
-    "open_issues_count": 154,
-    "forks_count": 456
+    "stargazers_count": 8474,
+    "open_issues_count": 155,
+    "forks_count": 458
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 159792,
+    "stargazers_count": 159949,
     "open_issues_count": 132,
-    "forks_count": 31279
+    "forks_count": 31298
   },
   {
     "full_name": "scottie1984/swagger-ui-express",
-    "stargazers_count": 1119,
+    "stargazers_count": 1120,
     "open_issues_count": 24,
     "forks_count": 200
   },
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "DenverCoder1/readme-typing-svg",
-    "stargazers_count": 1576,
-    "open_issues_count": 8,
+    "stargazers_count": 1593,
+    "open_issues_count": 9,
     "forks_count": 293
   },
   {
@@ -121,14 +121,14 @@
   },
   {
     "full_name": "supertokens/supertokens-node",
-    "stargazers_count": 183,
-    "open_issues_count": 39,
+    "stargazers_count": 184,
+    "open_issues_count": 40,
     "forks_count": 32
   },
   {
     "full_name": "SilentVoid13/Templater",
-    "stargazers_count": 1217,
-    "open_issues_count": 76,
+    "stargazers_count": 1223,
+    "open_issues_count": 80,
     "forks_count": 84
   },
   {
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 150821,
-    "open_issues_count": 725,
-    "forks_count": 24572
+    "stargazers_count": 150950,
+    "open_issues_count": 733,
+    "forks_count": 24581
   },
   {
     "full_name": "laowantong/mocodo",
@@ -151,21 +151,21 @@
   },
   {
     "full_name": "LeCoupa/awesome-cheatsheets",
-    "stargazers_count": 30799,
-    "open_issues_count": 65,
-    "forks_count": 5035
+    "stargazers_count": 30862,
+    "open_issues_count": 66,
+    "forks_count": 5043
   },
   {
     "full_name": "chris-marsh/pureline",
-    "stargazers_count": 438,
+    "stargazers_count": 440,
     "open_issues_count": 13,
     "forks_count": 71
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 73312,
+    "stargazers_count": 73403,
     "open_issues_count": 65,
-    "forks_count": 9907
+    "forks_count": 9922
   },
   {
     "full_name": "helene-nguyen/luneyverseblog",
